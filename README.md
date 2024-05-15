@@ -50,5 +50,3 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Bu README dosyası, projenin amacını, gereksinimlerini, kurulumunu, kullanımını, yapılandırılmasını, desteklenmesini, katkıda bulunmayı ve lisansını açıklar. README dosyası projenizi tanıtmak ve diğer geliştiricilere kolayca projenizi kullanmalarına ve katkıda bulunmalarına olanak tanımak için önemlidir.
